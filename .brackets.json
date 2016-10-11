@@ -1,0 +1,8 @@
+{
+    "jscodehints.detectedExclusions": [
+        "C:/Users/koushik/Desktop/Mobile App Dev/Project/touristguide/www/js/app.js",
+        "C:/Users/koushik/Desktop/Mobile App Dev/Project/touristguide/platforms/android/assets/www/lib/ionic/js/ionic.min.js",
+        "C:/Users/koushik/Desktop/Mobile App Dev/Project/touristguide/platforms/android/build/intermediates/assets/debug/www/ng-cordova.min.js",
+        "C:/Users/koushik/Desktop/Mobile App Dev/Project/touristguide/platforms/android/cordova/lib/builders/AntBuilder.js"
+    ]
+}
